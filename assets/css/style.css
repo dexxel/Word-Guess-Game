@@ -1,5 +1,7 @@
 body {
 	background-image:url("./../images/Dis.jpg");
+	background-repeat: no-repeat;
+    background-size: 1552px 786px;
 }
 .jumbotron {
   text-align: center;
